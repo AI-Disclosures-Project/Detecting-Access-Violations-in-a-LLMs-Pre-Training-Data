@@ -1,0 +1,2 @@
+# Detecting-Access-Violations-in-a-LLMs-Pre-Training-Data
+The official code reposotory for the "Detecting Access Violations in a LLMs' Pre-Training Data" paper by the AI Disclosures Project
